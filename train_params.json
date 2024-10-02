@@ -1,0 +1,8 @@
+{
+ "loss_fn":"torch.nn.CrossEntropyLoss()",
+ "optimizer":"Adam",
+ "lr":1e-4,
+ "precision":"torch.float32",
+ "n_epochs":10,
+ "batch_size":32
+}
